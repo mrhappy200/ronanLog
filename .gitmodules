@@ -1,6 +1,0 @@
-[submodule "themes/hugo-meilisearch"]
-	path = themes/hugo-meilisearch
-	url = https://github.com/platformsh/hugo-meilisearch.git
-[submodule "themes/terminal"]
-	path = themes/terminal
-	url = https://github.com/panr/hugo-theme-terminal.git
