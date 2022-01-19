@@ -1,0 +1,3 @@
+[submodule "themes/hugo-meilisearch"]
+	path = themes/hugo-meilisearch
+	url = https://github.com/platformsh/hugo-meilisearch.git
