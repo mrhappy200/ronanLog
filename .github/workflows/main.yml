@@ -26,8 +26,8 @@ jobs:
         with:
           personal_token: ${{ secrets.TOKEN }}
           external_repository: mrhappy200/ronanLog
-          publish_dir: ./public
-          #   keep_files: true
+          publish_dir: ./docs
+          keep_files: true
           user_name: mrhappy200
           user_email: 193763@gsf.nl
           publish_branch: master
